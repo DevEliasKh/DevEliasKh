@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript.**
 
-- 📫 How to reach me **eliaskhodaparast@gmail.com**
+- 📫 How to reach me **DevEliasKh@gmail.com**
 
 - ⚡ Fun fact **I'm a nurse right now!**
 
