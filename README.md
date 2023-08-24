@@ -1,22 +1,25 @@
-<h1 align="center">Hi 👋, I'm Elais</h1>
-<h3 align="center">A front-end Developer</h3>
+<h1 align="center">Hi 👋, I'm Elias</h1>
+<h3 align="center">A selftought frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=develiaskh&label=Profile%20views&color=0e75b6&style=flat" alt="develiaskh" /> </p>
 
-- 🔭 I’m currently working on [To-Do List](https://github.com/DevEliasKh/To-Do-List)
+- 🔭 I’m currently working on [Memory Card Game](https://github.com/DevEliasKh/Memory-Card)
 
 - 🌱 I’m currently learning **React**
 
+- 👯 I’m looking to collaborate on [The Odin Project](https://github.com/TheOdinProject)
+
 - 📫 How to reach me **DevEliasKh@gmail.com**
 
-- ⚡ Fun fact **I'm a self-learner**
+- ⚡ Fun fact **I'm a self-learner!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/develiaskh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="develiaskh" height="30" width="40" /></a>
+<a href="https://dev.to/develiaskh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="develiaskh" height="30" width="40" /></a>
 <a href="https://twitter.com/develiaskh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="develiaskh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/develiaskh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="develiaskh" height="30" width="40" /></a>
-<a href="https://discord.gg/develiaskh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="develiaskh" height="30" width="40" /></a>
+<a href="https://codesandbox.com/develiaskh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="develiaskh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
