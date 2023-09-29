@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=develiaskh&label=Profile%20views&color=0e75b6&style=flat" alt="develiaskh" /> </p>
 
-- 🔭 I’m currently working on [Shopoping Cart](https://github.com/DevEliasKh/shopping-cart)
+- 🔭 I’m currently working on [Shopping Cart](https://github.com/DevEliasKh/shopping-cart)
 
 - 🌱 I’m currently learning **React**
 
