@@ -33,7 +33,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEliasKh&layout=compact&theme=" alt=DevEliasKh />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEliasKh&layout=compact&theme=" alt=DevEliasKh />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DevEliasKh&show_icons=true&locale=en&theme=" alt="DevEliasKh" /></p>
 
