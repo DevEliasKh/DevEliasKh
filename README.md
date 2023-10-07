@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Shopping Cart](https://github.com/DevEliasKh/shopping-cart)
 - 👯 I’m looking to collaborate on **The Odin Project**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Svelte**
 
 - 📫 How to reach me **DevEliasKh@gamil.com**
 - ⚡ Fun fact **I learn programming by myself**
@@ -30,6 +30,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/svelte-original.svg" alt="Svelte" width="40" height="40"/>
 </p>
 
 <h3 align="left">Stars</h3>
