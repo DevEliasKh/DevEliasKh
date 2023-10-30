@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevEliasKh&label=Profile%20views&color=0e75b6&style=flat" alt="DevEliasKh" /> </p>
 
 
-- 🔭 I’m currently working on [Shopping Cart](https://github.com/DevEliasKh/shopping-cart)
+- 🔭 I’m currently working on [Coffee Store](https://github.com/DevEliasKh/coffee-store)
 - 👯 I’m looking to collaborate on **The Odin Project**
 - 🌱 I’m currently learning **Svelte**
 
