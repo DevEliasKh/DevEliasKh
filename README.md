@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Coffee Store](https://github.com/DevEliasKh/coffee-store)
 - 👯 I’m looking to collaborate on **The Odin Project**
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **DevEliasKh@gamil.com**
 - ⚡ Fun fact **I learn programming by myself**
