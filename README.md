@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **The Odin Project**
 - 🌱 I’m currently learning **Express**
 
-- 📫 How to reach me **DevEliasKh@gamil.com**
+- 📫 How to reach me **DevEliasKh@gmail.com**
 - ⚡ Fun fact **I learn programming by myself**
 
 
