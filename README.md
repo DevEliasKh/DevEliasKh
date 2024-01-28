@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevEliasKh&label=Profile%20views&color=0e75b6&style=flat" alt="DevEliasKh" /> </p>
 
 
-- 🔭 I’m currently working on [Ableton Clone](https://github.com/DevEliasKh/Ableton-clone)
+- 🔭 I’m currently working on [LiveLarq Clone](https://github.com/DevEliasKh/LiveLarq---Clone)
 - 👯 I’m looking to collaborate on **The Odin Project**
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **DevEliasKh@gmail.com**
 - ⚡ Fun fact **I learn programming by myself**
@@ -36,17 +36,11 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img width="5" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="30" alt="jest logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" height="30" alt="webpack logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white&style=for-the-badge" height="30" alt="pug logo"  />
 </div>
 
 <h3 align="left">Stars</h3>
