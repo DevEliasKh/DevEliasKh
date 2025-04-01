@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [demeter](https://github.com/DevEliasKh/demeter)
 - 👯 I’m looking to collaborate on **Project Kamp**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **DevEliasKh@gmail.com**
 - ⚡ Fun fact **I learn programming by myself**
