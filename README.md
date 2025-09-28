@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevEliasKh&label=Profile%20views&color=0e75b6&style=flat" alt="DevEliasKh" /> </p>
 
 
-- 🔭 I’m currently working on [demeter](https://github.com/DevEliasKh/demeter)
+- 🔭 I’m currently working on Myself!
 - 👯 I’m looking to collaborate on **Project Kamp**
 - 🌱 I’m currently learning **TypeScript**
 
